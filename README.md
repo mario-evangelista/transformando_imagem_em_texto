@@ -38,7 +38,7 @@ Certifique-se de que o caminho do Tesseract OCR esteja corretamente definido no 
 
 ## OUTPUT / TXT
 <div align="center">
-<img src="https://github.com/mario-evangelista/transformando_imagem_em_texto/assets/121322767/73d1408d-5417-49de-b43e-88953439dba6" width="700px" />
+<img src="https://github.com/mario-evangelista/transformando_imagem_em_texto/assets/121322767/bcfd431d-d9e3-493f-add3-266d0e88c656" width="700px" />
 </div>
 
 ## Contribuição
