@@ -34,6 +34,9 @@ Certifique-se de que o caminho do Tesseract OCR esteja corretamente definido no 
 <div align="center">
 <img src="https://github.com/mario-evangelista/decodificador-texto-javascript/assets/121322767/4eb3c334-9e9a-45a2-8783-0e6cc9fcfc8f)" width="700px" />
 </div>
+<div align="center">
+<img src="https://github.com/mario-evangelista/transformando_imagem_em_texto/assets/121322767/73d1408d-5417-49de-b43e-88953439dba6" width="700px" />
+</div>
 
 ## Contribuição
 
