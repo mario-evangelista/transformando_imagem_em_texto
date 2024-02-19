@@ -10,7 +10,7 @@ Certifique-se de ter instalado o Python em seu sistema. Além disso, o Tesseract
 
 1. Clone este repositório em sua máquina local usando o comando:
    ```
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/mario-evangelista/transformando_imagem_em_texto.git
    ```
 
 2. Certifique-se de ter instalado as dependências necessárias. Você pode instalar as dependências usando o seguinte comando:
@@ -35,7 +35,7 @@ Certifique-se de que o caminho do Tesseract OCR esteja corretamente definido no 
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas e enviar solicitações de recebimento (pull requests).
 
-Se encontrar algum problema ou tiver alguma sugestão, por favor, abra um problema [aqui](https://github.com/seu-usuario/nome-do-repositorio/issues).
+Se encontrar algum problema ou tiver alguma sugestão, por favor, abra um problema [aqui](https://github.com/mario-evangelista/transformando_imagem_em_texto/issues).
 
 ## Licença
 
