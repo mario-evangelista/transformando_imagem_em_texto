@@ -22,11 +22,11 @@ Certifique-se de ter instalado o Python em seu sistema. Além disso, o Tesseract
 
 ## Uso
 
-Execute o script Python `extract_text_from_image.py` fornecendo o caminho para sua imagem como argumento. O texto extraído será salvo no arquivo `output.txt` na pasta `output`.
+Execute o script Python `reconhecimento_texto_imagem.py` fornecendo o caminho para sua imagem como argumento. O texto extraído será salvo no arquivo `output.txt` na pasta `output`.
 
 Exemplo:
 ```
-python extract_text_from_image.py input/bootcamp.webp
+python reconhecimento_texto_imagem.py input/bootcamp.webp
 ```
 
 Certifique-se de que o caminho do Tesseract OCR esteja corretamente definido no script Python.
