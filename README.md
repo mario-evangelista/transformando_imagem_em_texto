@@ -1,4 +1,4 @@
-# README
+# Transformação de imagens em Dados
 
 Este repositório contém um script Python para extrair texto de uma imagem usando a biblioteca Pytesseract.
 
@@ -30,6 +30,10 @@ python reconhecimento_texto_imagem.py input/bootcamp.webp
 ```
 
 Certifique-se de que o caminho do Tesseract OCR esteja corretamente definido no script Python.
+
+<div align="center">
+<img src="https://github.com/mario-evangelista/decodificador-texto-javascript/assets/121322767/4eb3c334-9e9a-45a2-8783-0e6cc9fcfc8f)" width="700px" />
+</div>
 
 ## Contribuição
 
